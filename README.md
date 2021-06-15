@@ -2,12 +2,14 @@
   ## 'sakef;akjef
 
   Table of Contents:
-  [Description](#Description)
-  [Installation](#Installation)
-  [Usage](#Usage)
-  [Contributing](#Contributing)
-  [Tests](#Tests)
-  [Questions](#Questions)
+  1.[Description](#Description)
+  2.[Installation](#Installation)
+  3.[Usage](#Usage)
+  4.[Contributing](#Contributing)
+  5.[Tests](#Tests)
+  6.[Questions](#Questions)
+
+
 
 
   ## Description 
